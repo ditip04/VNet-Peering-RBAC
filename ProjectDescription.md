@@ -6,8 +6,6 @@ This project demonstrates the implementation of **Azure Virtual Network (VNet) P
 
 The objective was to create a controlled cloud environment for Client to demonstrate secure network connectivity between isolated workloads, virtual machine deployment, identity onboarding, and least-privilege access management.
 
-The project was completed as part of the **Microsoft Azure AZ-104: Azure Administrator** training.
-
 ## 🎯 Project Objectives
 
 - Create and configure Azure Virtual Networks and subnets.
